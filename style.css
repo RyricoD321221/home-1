@@ -1,0 +1,33 @@
+.button {
+  background-color: blueviolet;  
+  color: aliceblue;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font: 17px sans-serif;
+    flex-grow: 1;
+    padding: 30px;
+
+ }
+ .h1 {
+    text-align: center;
+    font-size: 130px;
+    font-family: Roboto;
+   font-weight: 100;
+ }
+ .centerlogo {
+    text-align: center;
+    display: block;
+    padding: 120px;
+ }
+ .button {
+   width: 112px;
+   height: 44px;
+   border-radius: 5px;
+ }
+ 
+
+
