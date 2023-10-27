@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T11:34:11.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="IiHe189axF3lScH1cgCN" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T11:39:03.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="pZbUTC9q5dkWb5BhS8Dc" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="vhwWmFYBPfRQbFzPmXqK">
     <mxGraphModel dx="1002" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="KTkdDVdYiYah_9VYzPvB-21" value="Устройство" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="-770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-23" value="Срок&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
