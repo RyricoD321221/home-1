@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T11:20:49.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" version="22.0.8" etag="fjgcPIuFsNA7NJpJf8UD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T11:34:11.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="IiHe189axF3lScH1cgCN" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="vhwWmFYBPfRQbFzPmXqK">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-1" value="&#xa;&lt;span data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:12474,&amp;quot;4&amp;quot;:{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:16777215},&amp;quot;6&amp;quot;:{&amp;quot;1&amp;quot;:[{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:0,&amp;quot;5&amp;quot;:{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:0}},{&amp;quot;1&amp;quot;:0,&amp;quot;2&amp;quot;:0,&amp;quot;3&amp;quot;:3},{&amp;quot;1&amp;quot;:1,&amp;quot;2&amp;quot;:0,&amp;quot;4&amp;quot;:1}]},&amp;quot;7&amp;quot;:{&amp;quot;1&amp;quot;:[{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:0,&amp;quot;5&amp;quot;:{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:0}},{&amp;quot;1&amp;quot;:0,&amp;quot;2&amp;quot;:0,&amp;quot;3&amp;quot;:3},{&amp;quot;1&amp;quot;:1,&amp;quot;2&amp;quot;:0,&amp;quot;4&amp;quot;:1}]},&amp;quot;8&amp;quot;:{&amp;quot;1&amp;quot;:[{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:0,&amp;quot;5&amp;quot;:{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:0}},{&amp;quot;1&amp;quot;:0,&amp;quot;2&amp;quot;:0,&amp;quot;3&amp;quot;:3},{&amp;quot;1&amp;quot;:1,&amp;quot;2&amp;quot;:0,&amp;quot;4&amp;quot;:1}]},&amp;quot;10&amp;quot;:2,&amp;quot;15&amp;quot;:&amp;quot;Arial&amp;quot;,&amp;quot;16&amp;quot;:8}&quot; data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Курсы по обучению программированию&amp;quot;}&quot; style=&quot;font-size:8pt;font-family:Arial;font-style:normal;&quot;&gt;Курсы по обучению программированию&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-2" value="Языки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-3" value="Направление&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-4" value="Курсы&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-5" value="Тесты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-6" value="Студенты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-7" value="Описание" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-8" value="Дни недели" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-9" value="Время&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-10" value="Преподаватель&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-11" value="&lt;font&gt;Практика&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-12" value="Лекция" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-13" value="Видео запись" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-14" value="Возраст&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-15" value="Классы&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-16" value="Уровень знания&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-17" value="Формат обучения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-19" value="Оплата" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTkdDVdYiYah_9VYzPvB-21" value="Устройство" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-770" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
